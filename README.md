@@ -2,7 +2,7 @@
 
 ## LogicTech
 
-A LogicTech é um projeto de Gestão de Startup produzido pelos Zomis dos Programa. O objetivo do projeto é trabalhar com a criação e manutenção de sites. Utilizamos o Instagram para a divulgação do trabalho, no perfil https://acesse.one/Y1khh.
+A LogicTech é um projeto de Gestão de Startup produzido pelos Zomis dos Programa. O objetivo do projeto é trabalhar com a criação e manutenção de sites. Utilizamos o Instagram para a divulgação do trabalho, no perfil https://www.instagram.com/logictech1001?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==.
 
 ### Integrantes da Equipe
 
